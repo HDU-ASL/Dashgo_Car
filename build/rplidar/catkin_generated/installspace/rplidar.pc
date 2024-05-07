@@ -1,0 +1,8 @@
+prefix=/home/u/dcar_ws/install
+
+Name: rplidar
+Description: Description of rplidar
+Version: 2.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

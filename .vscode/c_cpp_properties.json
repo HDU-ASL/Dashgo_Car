@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/u/dcar_ws/devel/include/**",
+        "/home/u/rplidar_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/u/nav_ws/devel/include/**",
+        "/home/u/dcar_ws/src/car_driver/include/**",
+        "/home/u/nav_ws/src/dashgo_driver/include/**",
+        "/home/u/dcar_ws/src/navigation/include/**",
+        "/home/u/rplidar_ws/src/rf2o_laser_odometry/include/**",
+        "/home/u/rplidar_ws/src/yahboomcar_bringup/include/**",
+        "/home/u/dcar_ws/src/yocs_velocity_smoother/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
